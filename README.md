@@ -80,12 +80,12 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologías utilizadas👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Lenguajes y herramientas utilizadas👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=andoidstudio,arduino,autocad,bootstrap,cssdjango,firebasegit,html,js,ai,idea,java,jquery,kotlin,mysql,php,py,sass,xd" />
+  <img src="https://skillicons.dev/icons?i=andoidstudio,arduino,autocad,bootstrap,css,django,firebase,git,html,js,ai,idea,java,jquery,kotlin,mysql,php,py,sass,xd" />
 </p>
 
 
