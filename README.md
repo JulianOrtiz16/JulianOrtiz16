@@ -85,7 +85,27 @@
 </div>
 <!--tech stack icons-->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,py,sass" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,py,sass,java,kotlin" />
+</p>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Bases de Datos y Frameworks</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,bootstrap,django,jquery" />
+</p>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Entornos de desarrollo y programas de diseño</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,arduino,idea,autocad,figma,ai,ps,xd" />
 </p>
 
 
