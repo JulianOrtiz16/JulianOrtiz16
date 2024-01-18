@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 Futuro **Técnico en programación.**
+- 🔭**Técnico en programación.**
 
 - 🌱 **E.E.S.T.N°1 E.E.**
 
